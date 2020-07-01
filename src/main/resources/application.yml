@@ -1,0 +1,14 @@
+data:
+    dataText: "Hello Data!"
+
+anotherdata:
+    dataText: "Hello AnotherData!"
+
+mybean:
+    dataText: "Hello MyBean!"
+
+noproxybean:
+    dataText: "Hello NoProxyBean!"
+
+anotherbean:
+    dataText: "Hello AnotherBean!"
